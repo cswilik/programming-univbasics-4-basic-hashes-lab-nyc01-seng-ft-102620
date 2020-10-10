@@ -5,7 +5,6 @@ end
 def my_hash
   my_hash = {
     :cat => "Kobe"
-    :boyfriend => "Jimmy"
   }
 end
 
